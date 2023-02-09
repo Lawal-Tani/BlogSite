@@ -39,4 +39,54 @@
     background-color: rgb(22,24,25);
     padding: 20px;
     border-radius: 20px;
+    height: 300px;
+}
+.newsbox p{
+    font-size: 17px;
+}
+.imagedes{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(22,24,25);
+    border-radius: 35px;
+}
+.lilbx{
+    width: 30%;
+    margin-right: 10px;
+}
+.lilbx img{
+    border-radius: 25px;
+    height: 250px;
+}
+.content{
+    width: 50%;
+}
+.newsletter{
+    display: flex;
+    flex-direction: column;
+    background:rgb(234,36,111);
+    border-radius: 25px;
+    height: 450px;
+}
+.newsletter button{
+    margin-top: 100px;
+}
+.newsletter input{
+    border-radius: 20px;
+    border: none;
+    height: 40px;
+}
+.ltr{
+        background-color: rgb(22,24,25);
+        border-radius: 25px;
+}
+.fa{
+    margin-left: 5px;
+    background-color: rgb(49,52,56);
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 18px;
+}
+.odd{
+    margin-top: -250px;
 }
