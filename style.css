@@ -90,3 +90,12 @@
 .odd{
     margin-top: -250px;
 }
+
+.footer{
+    background-color: rgb(22,24,25);
+    height: 100px;
+}
+.footer a{
+    position: absolute;
+    right: 5px;
+}
